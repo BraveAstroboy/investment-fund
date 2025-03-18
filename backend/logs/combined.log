@@ -1,0 +1,18 @@
+2025-03-18T09:26:29.291Z warn: Blockchain service running in mock mode due to missing configuration 
+2025-03-18T09:27:37.096Z warn: Blockchain service running in mock mode due to missing configuration 
+2025-03-18T09:27:56.030Z warn: Blockchain service running in mock mode due to missing configuration 
+2025-03-18T09:29:26.778Z warn: Blockchain service running in mock mode due to missing configuration 
+2025-03-18T09:29:59.767Z warn: Blockchain service running in mock mode due to missing configuration 
+2025-03-18T09:30:36.883Z warn: Blockchain service running in mock mode due to missing configuration 
+2025-03-18T09:30:58.656Z warn: Blockchain service running in mock mode due to missing configuration 
+2025-03-18T09:30:58.692Z info: Using mock Redis implementation in development mode 
+2025-03-18T09:31:07.936Z warn: Blockchain service running in mock mode due to missing configuration 
+2025-03-18T09:31:07.970Z info: Using mock Redis implementation in development mode 
+2025-03-18T09:31:45.013Z warn: Blockchain service running in mock mode due to missing configuration 
+2025-03-18T09:31:45.074Z info: Using mock Redis implementation in development mode 
+2025-03-18T09:32:22.590Z warn: Blockchain service running in mock mode due to missing configuration 
+2025-03-18T09:32:22.928Z info: Using mock Redis implementation in development mode 
+2025-03-18T09:36:40.163Z debug: No cached fund metrics found 
+2025-03-18T09:36:40.165Z warn: Blockchain service called in mock mode 
+2025-03-18T09:36:40.165Z debug: Fund metrics cached successfully 
+2025-03-18T09:39:52.847Z warn: Blockchain service called in mock mode 
