@@ -17,8 +17,8 @@ export class Redemption {
     @Column('decimal', { precision: 36, scale: 18 })
     sharePrice: string;
 
-    @Column('varchar')
-    transactionHash: string;
+    @Column('varchar', { nullable: true })
+    transactionHash: string | null;
 
     @Column('varchar')
     status: 'PENDING' | 'COMPLETED' | 'FAILED';
